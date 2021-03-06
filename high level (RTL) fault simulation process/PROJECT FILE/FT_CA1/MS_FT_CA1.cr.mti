@@ -1,0 +1,92 @@
+{C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/MemIP.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/MemIP.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module MemIP
+
+Top level modules:
+	MemIP
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/ProgramCounter.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/ProgramCounter.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/WindowPointer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/WindowPointer.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module WindowPointer
+
+Top level modules:
+	WindowPointer
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/StatusRegister.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/StatusRegister.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module StatusRegister
+
+Top level modules:
+	StatusRegister
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/ArithmeticUnit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/ArithmeticUnit.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ArithmeticUnit
+
+Top level modules:
+	ArithmeticUnit
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/Sayeh.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/Sayeh.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Sayeh
+
+Top level modules:
+	Sayeh
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/AddressingUnit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/AddressingUnit.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module AddressingUnit
+
+Top level modules:
+	AddressingUnit
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/AddressLogic.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/AddressLogic.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module AddressLogic
+
+Top level modules:
+	AddressLogic
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/RegisterFile.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/RegisterFile.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/InstructionRegister.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/InstructionRegister.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module InstructionRegister
+
+Top level modules:
+	InstructionRegister
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/Sayeh_Test.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/Sayeh_Test.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SayehTest
+
+Top level modules:
+	SayehTest
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/controller.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/controller.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/DataPath.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Mahsa Abedi/Desktop/uni/fault tolerance/FT_CA1/DataPath.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}}

@@ -1,0 +1,4 @@
+﻿  hl_fault.cpp
+c:\users\mahsa abedi\desktop\uni\fault tolerance\ft_ca1\ft_ca1\ft_ca1\hl_fault.cpp(173): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FT_CA1.vcxproj -> C:\Users\Mahsa Abedi\Desktop\uni\fault tolerance\FT_CA1\FT_CA1\Debug\FT_CA1.dll
+  FT_CA1.vcxproj -> C:\Users\Mahsa Abedi\Desktop\uni\fault tolerance\FT_CA1\FT_CA1\Debug\FT_CA1.pdb (Full PDB)
